@@ -1,4 +1,5 @@
-# ¡Hola, mundo! 👋 Soy Victor Cide
+# 
+👋 Soy Victor Cide
 
 <p align="center">
   <b>Desarrollador Multimedia, Artista 3D y Productor de Contenido</b><br>
